@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../.vercel"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Models"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "../public"
+		},
+		{
+			"path": "../views"
+		},
+		{
+			"path": "../Views Listings"
+		}
+	]
+}
